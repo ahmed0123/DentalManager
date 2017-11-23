@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#C54A2A</color>
+    <color name="colorAccent">#c81913</color>
+    <color name="colorBlackTrans">#2c2726</color>
+    <color name="coloRctangle">#5390e2</color>
+    <color name="white">#fff</color>
+    <color name="green">#c8255f26</color>
+    <color name="black">#000000</color>
+    <color name="circle">#c54b2801</color>
+    <color name="end_color">#F29492</color>
+
+    <color name="view">#63e1e1e1</color>
+    <color name="toolbarTransparent">#00FFFFFF</color>
+
+</resources>

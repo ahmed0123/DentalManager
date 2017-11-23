@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dental Manager</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_cost">Total cost</string>
+    <string name="hint_period">Periodontal Description</string>
+    <string name="hint_systemic">Systemic Description</string>
+    <string name="error_name">Enter Patient Full name</string>
+    <string name="error_phone">Patient’s phone number</string>
+    <string name="error_cost">Total cost here</string>
+    <string name="error_period">Periodontal is necessary </string>
+    <string name="error_systemic">Periodontal is necessary</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="save_btn">Save</string>
+    <string name="call">Call Patient</string>
+    <string name="session">New Session</string>
+    <string name="description">Description</string>
+    <string name="details">Session Details</string>
+    <string name="cost">Session Cost</string>
+    <string name="date">Set Session Date </string>
+    <string name="title_activity_patient_gallery">PatientGallery</string>
+
+
+</resources>
